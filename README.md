@@ -1,19 +1,19 @@
 <div align="center">
 
-# TEMPLATE-AppImage 🐧
+# FilmCraft-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/TEMPLATE-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/TEMPLATE-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/TEMPLATE-AppImage)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/FilmCraft-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/FilmCraft-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/FilmCraft-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/FilmCraft-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/FilmCraft-AppImage)](https://github.com/pkgforge-dev/FilmCraft-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/storytold/filmcraft/61ab6f5c7dfc37097b8a28aac235a3e31a84a6ae/assets/app-icon/filmcraft.svg" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Anylinux-AppImages) |
+| [Click here](https://github.com/pkgforge-dev/FilmCraft-AppImage/releases/latest) | [Click here](https://github.com/storytold/filmcraft) |
 
 </div>
 
